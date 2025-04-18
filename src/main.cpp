@@ -1,5 +1,6 @@
 #include <iostream> // I need to include the I/O libray for input and output
 #include <SFML/Audio.hpp> // Include SFML Audio module
+#include <cstdlib>
 
 // Sturcture for Player character
 struct Player{
@@ -29,7 +30,7 @@ int main() {
     //  std::endl is used to end the line
     //  cout means character output stream
     //  endl means end line
-    
+    system("cls");
     std::cout << "Welcome to the Dragon Realm" << std::endl;
 
     // We ask the player for their name
