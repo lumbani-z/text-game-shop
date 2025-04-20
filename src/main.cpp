@@ -32,12 +32,14 @@ int main() {
         return -1;
     }
     sf::Sound selectSound(selectBuffer);
+    selectSound.setVolume(200.0f); // Set volume to 50%
     // Load background music
     sf::Music music;
     if (!music.openFromFile("24.wav")) { // Replace with your music file path
         std::cout << "Error: Could not load music file!" << std::endl;
         return -1;
     }
+    music.setVolume(50.0f);
     music.setLooping(true); // Loop the music
     music.play(); // Start playing the music
 
