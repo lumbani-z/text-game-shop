@@ -1,0 +1,22 @@
+Having finished this project, these are some breif thoughts:
+
+  - This took longer than I expected. I thought it would be quick and easy, but I was wrong.
+
+  - I have yet to understand why cpp is the preferred language for game development. Clearly, a simple project such as this one will not expose me to the scenarios
+in which cpp shines brighter than python. But, as of right now, I often found myself thinking that most of the functionalities I implemented are features I would feel much more comfortable doing in python.
+
+  - SFML was very, very hard to set up. Using CMake was even harder than it should have been. I still do not understnad how CMakeLists.txt is supposed to work,
+ but after many, many tries I'm just glad it runs as intended.
+
+  - Learning how to make the program transferrable was quite cool. It's just a tiny program, but getting main.exe to run for the first time on a different computer felt more rewarding
+than doing it in python for the first time. Primarily because building then testing adds a layer to the execution process that is not present when working with python (at least in my experience).
+
+  - I am excited to use the SFML graphics module. 
+
+  - std::cout << << std::endl; is definitely one of the print commands of all time
+
+  - structs are quite straight forward, but I don't know the limitations yet
+
+  - A lot of new stuff, but also some familiar ideas
+
+  - It was neat. Was cool to hear my own music in my own "game" haha
