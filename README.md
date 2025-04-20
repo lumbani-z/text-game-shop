@@ -1,4 +1,4 @@
-# Built with the CMake SFML Project Template
+# Project 1: RPG "shop"
 
 This is a basic introductory look at cpp. 
 
