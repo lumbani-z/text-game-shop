@@ -10,6 +10,6 @@ It is by no means exhaustive, and much of the expected functionality is not pres
 
 I have created music and sound effects for the project as well, so learning how to use SFML will be a necessary hurdle I must face.
 
-Running the project is hassle free, simply download the contents of the release folder into the same directory.
+Running the project is hassle free. Simply download the contents of the transferrable folder into one directory.
 
 The directory should contain main.exe, 24.wav, and fx.wav. 
